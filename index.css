@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+body .main {
+  width: 200px;
+  height: 200px;
+  border: 4px solid black;
+}/*# sourceMappingURL=index.css.map */
